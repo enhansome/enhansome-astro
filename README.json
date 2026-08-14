@@ -1,0 +1,888 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Astro Theme - AstroWind",
+          "description": "Started template to make a website using Astro and Tailwind CSS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Astro",
+            "last_commit": "2026-08-08T03:22:21Z",
+            "owner": "arthelokyo",
+            "repo": "astrowind",
+            "stars": 5877
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Astro Theme - Cactus",
+          "description": "Simple, opinionated starter built with the Astro framework for blog or website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Astro",
+            "last_commit": "2026-07-25T03:48:19Z",
+            "owner": "chrismwilliams",
+            "repo": "astro-theme-cactus",
+            "stars": 1707
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Astro Theme - Odessey",
+          "description": "A marketing website theme built with Astro and carefully crafted for startups and businesses",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Astro",
+            "last_commit": "2024-10-16T16:41:49Z",
+            "owner": "treefarmstudio",
+            "repo": "odyssey-theme",
+            "stars": 785
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Starwind UI",
+          "description": "A set of powerful, accessible components for your Astro projects. Styled with Tailwind CSS v4.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-14T03:01:33Z",
+            "owner": "starwind-ui",
+            "repo": "starwind-ui",
+            "stars": 700
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Astro Ink",
+          "description": "Crisp, minimal, personal blog theme for Astro",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Astro",
+            "last_commit": "2025-11-03T13:43:13Z",
+            "owner": "one-aalam",
+            "repo": "astro-ink",
+            "stars": 598
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tailcast",
+          "description": "Dark-themed website template built with Astro and Tailwind CSS. 8 pages, SEO optimization, and view transitions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Astro",
+            "last_commit": "2026-04-12T03:14:43Z",
+            "owner": "matt765",
+            "repo": "Tailcast",
+            "stars": 401
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Astro Theme - Creek",
+          "description": "A Blog theme for Astro",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Astro",
+            "last_commit": "2026-08-13T00:42:55Z",
+            "owner": "robertguss",
+            "repo": "Astro-Theme-Creek",
+            "stars": 283
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Astro Citrus",
+          "description": "A modern Astro blog theme with MDX and Tailwind CSS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Astro",
+            "last_commit": "2025-03-10T17:05:19Z",
+            "owner": "ArtemKutsan",
+            "repo": "astro-citrus",
+            "stars": 153
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Astro + Snipcart",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Astro",
+            "last_commit": "2025-09-17T19:28:46Z",
+            "owner": "lloydjatkinson",
+            "repo": "astro-snipcart",
+            "stars": 125
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Astro + Supabase + Vercel",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Astro",
+            "last_commit": "2023-07-03T08:18:32Z",
+            "owner": "magnuswahlstrand",
+            "repo": "astro-supabase-vercel",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Catonaut",
+          "description": "Browser extension template using Astro and Bun.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-10-14T20:28:46Z",
+            "owner": "AminoffZ",
+            "repo": "catonaut",
+            "stars": 85
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AstroDeck",
+          "description": "Production-ready Astro 6 starter with Tailwind CSS 4, shadcn/ui, dark mode, 11 page templates and 5 AI agents (AGENTS.md)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Astro",
+            "last_commit": "2026-08-07T05:48:59Z",
+            "owner": "holger1411",
+            "repo": "astrodeck",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Astro-netlify-starter",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Astro",
+            "last_commit": "2021-12-01T15:09:48Z",
+            "owner": "cassidoo",
+            "repo": "astro-netlify-starter",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Astro Ghost CMS Starter",
+          "description": "A Ghost CMS starter for Astro",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Astro",
+            "last_commit": "2023-09-01T11:01:42Z",
+            "owner": "PhilDL",
+            "repo": "astro-starter-ghost",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Astro-react-vue-demo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2021-06-24T22:35:38Z",
+            "owner": "cassidoo",
+            "repo": "astro-react-vue-demo",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Astro Me",
+          "description": "Crisp, minimal, personal portfolio theme for Astro",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Astro",
+            "last_commit": "2021-10-08T04:26:11Z",
+            "owner": "one-aalam",
+            "repo": "astro-me",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Astro Theme - Sarissa Blog",
+          "description": "A responsive blog theme for Astro",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Astro",
+            "last_commit": "2024-12-21T09:12:15Z",
+            "owner": "iozcelik",
+            "repo": "SarissaBlogAstroStarter",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Astro Blog Starter with Netlify CMS",
+          "description": "Template based on the Astro blog starter kit + Astro Netlify CMS integration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Astro",
+            "last_commit": "2023-10-18T02:57:43Z",
+            "owner": "delucis",
+            "repo": "astro-netlify-cms-starter",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Astro Static Tweet",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Astro",
+            "last_commit": "2022-02-19T14:09:14Z",
+            "owner": "rebelchris",
+            "repo": "astro-static-tweet",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Astro TAP Stack",
+          "description": "Opinionated astro starter kit (Typescript & Tailwind + Astro + Prisma & Planet scale)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Astro",
+            "last_commit": "2022-09-04T11:03:53Z",
+            "owner": "codiume",
+            "repo": "the-tap-stack",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Astro + Craft CMS Starter",
+          "description": "A minimal, production-ready starter for Astro and Craft CMS with GraphQL integration, pagination, and live preview support",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Astro",
+            "last_commit": "2025-07-02T06:04:51Z",
+            "owner": "craftcms",
+            "repo": "starter-astro",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Refo",
+          "description": "A static site and resume example with styled components.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-01T10:51:32Z",
+            "owner": "kireerik",
+            "repo": "refo",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Astro Starter Kit",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Astro",
+            "last_commit": "2021-08-28T04:36:56Z",
+            "owner": "one-aalam",
+            "repo": "astro-starter-kit",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Brook 2",
+          "description": "Minimalist Astro 6 blog template with Tailwind CSS 4, content collections, MDX, dark mode and clean typography",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Astro",
+            "last_commit": "2026-08-07T05:49:02Z",
+            "owner": "holger1411",
+            "repo": "astro-brook",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Astro Translation Example",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-09-11T18:08:17Z",
+            "owner": "tylergaw",
+            "repo": "astro-example-i18next",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Astro Deno Starter",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-08-28T05:40:05Z",
+            "owner": "reggi",
+            "repo": "astro-deno-starter",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Astro-MFE-Demo",
+          "description": "Showcasing how to set up a microfrontend running on Astro.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Astro",
+            "last_commit": "2022-11-23T10:26:52Z",
+            "owner": "itmaginationdemos",
+            "repo": "astro-multiframework-demo",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "ℹ️ Repositories/Starter Kits/Components"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Astro Icon",
+          "description": "Straight-forward Icon component for Astro",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MDX",
+            "last_commit": "2026-08-14T04:02:51Z",
+            "owner": "natemoo-re",
+            "repo": "astro-icon",
+            "stars": 1429
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Astro SEO",
+          "description": "Better SEO with Astro",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Astro",
+            "last_commit": "2026-01-14T09:55:12Z",
+            "owner": "jonasmerlin",
+            "repo": "astro-seo",
+            "stars": 1381
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Astro ImageTools",
+          "description": "Image Optimization tools for the Astro JS framework",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-09-03T16:44:07Z",
+            "owner": "RafidMuhymin",
+            "repo": "astro-imagetools",
+            "stars": 430
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Astro Breadcrumbs",
+          "description": "Well configurable breadcrumb component for Astro. Create breadcrumbs completely dynamically or specify exactly how they should look.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-14T02:03:54Z",
+            "owner": "felix-berlin",
+            "repo": "astro-breadcrumbs",
+            "stars": 217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Astro Collection",
+          "description": "An Astro components and configurations collection",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2024-07-14T18:43:16Z",
+            "owner": "JulianCataldo",
+            "repo": "web-garden",
+            "stars": 171
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Astroad",
+          "description": "A pre-configured setup for easy website development with Astro and Payload CMS using Docker.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-01-13T10:28:52Z",
+            "owner": "mooxl",
+            "repo": "astroad",
+            "stars": 165
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Astro Auto-import",
+          "description": "Auto-import components in Astro projects",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-02T18:33:12Z",
+            "owner": "delucis",
+            "repo": "astro-auto-import",
+            "stars": 157
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Astro Google Fonts Optimizer",
+          "description": "An Astro integration to optimize the Google Fonts loading performance",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-04-09T06:48:49Z",
+            "owner": "sebholstein",
+            "repo": "astro-google-fonts-optimizer",
+            "stars": 125
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Astro Social Share",
+          "description": "Social media share buttons for your Astro site",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Astro",
+            "last_commit": "2025-12-02T04:22:19Z",
+            "owner": "silent1mezzo",
+            "repo": "astro-social-share",
+            "stars": 92
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Astro Eleventy Image",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2023-06-30T15:39:41Z",
+            "owner": "Princesseuh",
+            "repo": "astro-eleventy-img",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Astro Forms",
+          "description": "Forms in Astro made easy",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Astro",
+            "last_commit": "2022-07-18T17:29:14Z",
+            "owner": "tessamerrill",
+            "repo": "AstroForms",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Astro Pandoc",
+          "description": "Pandoc rendering for Astro",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Astro",
+            "last_commit": "2021-09-19T20:16:00Z",
+            "owner": "trashhalo",
+            "repo": "astro-pandoc",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Astro Gist",
+          "description": "Astro component to easily add GitHub gists to your blog",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Astro",
+            "last_commit": "2025-12-22T13:50:58Z",
+            "owner": "kotosha-real",
+            "repo": "astro-gist",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sarissa Pagination",
+          "description": "Add page number buttons for pagination. Automatically add and disable numbers as current page number.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Astro",
+            "last_commit": "2022-06-11T18:03:23Z",
+            "owner": "iozcelik",
+            "repo": "SarissaPagination",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "astro-loader-goodreads",
+          "description": "Load Goodreads data for books in shelves/lists, user updates, and author blogs into Astro.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-13T01:38:54Z",
+            "owner": "sadmanca",
+            "repo": "astro-loader-goodreads",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Astro SEO Meta",
+          "description": "Astro component to add tags that are relevant for search engine optimization (SEO) to your pages.",
+          "children": []
+        }
+      ],
+      "title": "Astro Packages/Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "@unocss/astro",
+          "description": "The UnoCSS integration for Astro",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T12:43:02Z",
+            "owner": "unocss",
+            "repo": "unocss",
+            "stars": 18918
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Frontman",
+          "description": "An open-source AI coding agent that lives in your browser, letting you click any element and describe changes in plain English to get real code edits with hot reload.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "ReScript",
+            "last_commit": "2026-08-13T19:53:42Z",
+            "owner": "frontman-ai",
+            "repo": "frontman",
+            "stars": 657
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@storyblok/astro",
+          "description": "Astro module for the Storyblok, Headless CMS",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2025-06-19T15:04:42Z",
+            "owner": "storyblok",
+            "repo": "storyblok-astro",
+            "stars": 213
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Google Font Optimizer",
+          "description": "An Astro integration to optimize the Google Fonts loading performance",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-04-09T06:48:49Z",
+            "owner": "sebholstein",
+            "repo": "astro-google-fonts-optimizer",
+            "stars": 125
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Astro Content",
+          "description": "A text based, structured content manager, for edition and consumption — AstroJS Integration",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2023-03-14T23:27:04Z",
+            "owner": "JulianCataldo",
+            "repo": "astro-content",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@yeskunall/umami",
+          "description": "Add Umami Analytics to your website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T06:49:23Z",
+            "owner": "yeskunall",
+            "repo": "astro-umami",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Astro Font Picker",
+          "description": "A Dev Toolbar Integration that lets you try out different fonts on your website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-12-15T06:06:24Z",
+            "owner": "randombits-dev",
+            "repo": "astro-font-picker",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Astro Firebase",
+          "description": "Deploy your server-side rendered (SSR) Astro app to Firebase",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-05-05T13:10:13Z",
+            "owner": "thepassle",
+            "repo": "astro-firebase",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Astro Snapshot",
+          "description": "An Astro integration for generating screenshots of your pages automatically at build time",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-19T21:08:48Z",
+            "owner": "caret-collective",
+            "repo": "astro-snapshot",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@aeorank/astro",
+          "description": "AEO (Answer Engine Optimization) integration for Astro — generates llms.txt, schema.json, and more AI-readable files",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T14:50:53Z",
+            "owner": "vinpatel",
+            "repo": "aeorank",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "astro-cloudflare-pages-headers",
+          "description": "A lightweight integration for Astro that automatically generates a Cloudflare Pages file for deployments based on your server header configuration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-24T04:02:34Z",
+            "owner": "martinsilha",
+            "repo": "astro-cloudflare-pages-headers",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Astro Integrations"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Taiwan.md",
+          "description": "Open-source, AI-friendly knowledge base about Taiwan. 400+ Markdown articles, bilingual, knowledge graph, and public API. (GitHub — 600+ ⭐)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-14T04:19:48Z",
+            "owner": "frank890417",
+            "repo": "taiwan-md",
+            "stars": 1142
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Watchboard",
+          "description": "AI-powered intelligence dashboard platform with 48 trackers, CesiumJS 3D globe, Leaflet maps, and nightly automated data updates (Source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-14T01:49:21Z",
+            "owner": "ArtemioPadilla",
+            "repo": "watchboard",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Easybank Landing Page",
+          "description": "(source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Astro",
+            "last_commit": "2021-10-23T08:23:09Z",
+            "owner": "markteekman",
+            "repo": "easybank-landing-page",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tally",
+          "description": "(Source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-21T06:16:34Z",
+            "owner": "caret-collective",
+            "repo": "Tally",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aidankinzett.com",
+          "description": "(Source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Astro",
+            "last_commit": "2026-08-11T23:48:28Z",
+            "owner": "aidankinzett",
+            "repo": "astro-blog",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sadman.ca",
+          "description": "(Source)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HTML",
+            "last_commit": "2025-05-14T03:40:24Z",
+            "owner": "sadmanca",
+            "repo": "blogv2",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Goldplated Photos",
+          "description": "Self-hosted photo gallery with file-based storage, password protection, and PhotoSwipe lightbox (Source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Astro",
+            "last_commit": "2026-08-12T17:26:04Z",
+            "owner": "klukacin",
+            "repo": "goldplated-photos",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ukuvota.world",
+          "description": "(Source)",
+          "children": []
+        }
+      ],
+      "title": "Built with Astro"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T05:37:11.901Z",
+    "original_repository": "one-aalam/awesome-astro",
+    "original_repository_sha": "09402f63944f3ffaf7a737b40d4b785a8e801ee9",
+    "enhanced_repository": "enhansome/enhansome-astro",
+    "enhanced_repository_description": null,
+    "title": "Awesome Astro with stars"
+  }
+}
