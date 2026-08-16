@@ -14,7 +14,7 @@
             "last_commit": "2026-08-08T03:22:21Z",
             "owner": "arthelokyo",
             "repo": "astrowind",
-            "stars": 5879
+            "stars": 5880
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-07-25T03:48:19Z",
             "owner": "chrismwilliams",
             "repo": "astro-theme-cactus",
-            "stars": 1709
+            "stars": 1711
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2024-10-16T16:41:49Z",
             "owner": "treefarmstudio",
             "repo": "odyssey-theme",
-            "stars": 785
+            "stars": 784
           }
         },
         {
@@ -53,7 +53,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T15:26:03Z",
+            "last_commit": "2026-08-16T03:47:02Z",
             "owner": "starwind-ui",
             "repo": "starwind-ui",
             "stars": 700
@@ -398,7 +398,7 @@
             "last_commit": "2026-08-14T04:02:51Z",
             "owner": "natemoo-re",
             "repo": "astro-icon",
-            "stars": 1429
+            "stars": 1430
           }
         },
         {
@@ -412,7 +412,7 @@
             "last_commit": "2026-01-14T09:55:12Z",
             "owner": "jonasmerlin",
             "repo": "astro-seo",
-            "stars": 1381
+            "stars": 1383
           }
         },
         {
@@ -426,7 +426,7 @@
             "last_commit": "2024-09-03T16:44:07Z",
             "owner": "RafidMuhymin",
             "repo": "astro-imagetools",
-            "stars": 430
+            "stars": 431
           }
         },
         {
@@ -437,7 +437,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T17:48:40Z",
+            "last_commit": "2026-08-16T02:13:00Z",
             "owner": "felix-berlin",
             "repo": "astro-breadcrumbs",
             "stars": 217
@@ -479,7 +479,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T02:30:17Z",
+            "last_commit": "2026-08-15T17:54:28Z",
             "owner": "delucis",
             "repo": "astro-auto-import",
             "stars": 157
@@ -617,10 +617,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T14:44:47Z",
+            "last_commit": "2026-08-15T14:28:41Z",
             "owner": "unocss",
             "repo": "unocss",
-            "stars": 18919
+            "stars": 18922
           }
         },
         {
@@ -631,10 +631,10 @@
           "repo_info": {
             "archived": false,
             "language": "ReScript",
-            "last_commit": "2026-08-14T18:58:28Z",
+            "last_commit": "2026-08-15T19:43:40Z",
             "owner": "frontman-ai",
             "repo": "frontman",
-            "stars": 657
+            "stars": 659
           }
         },
         {
@@ -743,7 +743,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T14:49:43Z",
+            "last_commit": "2026-08-15T14:40:22Z",
             "owner": "vinpatel",
             "repo": "aeorank",
             "stars": 12
@@ -777,10 +777,10 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-08-15T04:25:45Z",
+            "last_commit": "2026-08-16T01:10:12Z",
             "owner": "frank890417",
             "repo": "taiwan-md",
-            "stars": 1146
+            "stars": 1148
           }
         },
         {
@@ -791,7 +791,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T01:09:12Z",
+            "last_commit": "2026-08-16T04:17:11Z",
             "owner": "ArtemioPadilla",
             "repo": "watchboard",
             "stars": 19
@@ -878,7 +878,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T04:29:06.064Z",
+    "last_updated": "2026-08-16T04:34:29.733Z",
     "original_repository": "one-aalam/awesome-astro",
     "original_repository_sha": "09402f63944f3ffaf7a737b40d4b785a8e801ee9",
     "enhanced_repository": "enhansome/enhansome-astro",
