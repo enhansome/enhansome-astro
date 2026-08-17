@@ -83,10 +83,10 @@ Pre 1.0
 
 ## ℹ️ Repositories/Starter Kits/Components
 
-* [Astro Theme - AstroWind](https://github.com/onwidget/astrowind) ⭐ 5,880 | 🐛 23 | 🌐 Astro | 📅 2026-08-08 - Started template to make a website using Astro and Tailwind CSS.
-* [Astro Theme - Cactus](https://github.com/chrismwilliams/astro-theme-cactus) ⭐ 1,711 | 🐛 7 | 🌐 Astro | 📅 2026-07-25 - Simple, opinionated starter built with the Astro framework for blog or website
+* [Astro Theme - AstroWind](https://github.com/onwidget/astrowind) ⭐ 5,881 | 🐛 23 | 🌐 Astro | 📅 2026-08-08 - Started template to make a website using Astro and Tailwind CSS.
+* [Astro Theme - Cactus](https://github.com/chrismwilliams/astro-theme-cactus) ⭐ 1,712 | 🐛 7 | 🌐 Astro | 📅 2026-07-25 - Simple, opinionated starter built with the Astro framework for blog or website
 * [Astro Theme - Odessey](https://github.com/littlesticksdev/odyssey-theme) ⭐ 784 | 🐛 15 | 🌐 Astro | 📅 2024-10-16 - A marketing website theme built with Astro and carefully crafted for startups and businesses
-* [Starwind UI](https://github.com/starwind-ui/starwind-ui) ⭐ 700 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-16 - A set of powerful, accessible components for your Astro projects. Styled with Tailwind CSS v4.
+* [Starwind UI](https://github.com/starwind-ui/starwind-ui) ⭐ 699 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-16 - A set of powerful, accessible components for your Astro projects. Styled with Tailwind CSS v4.
 * [Astro Ink](https://github.com/one-aalam/astro-ink) ⭐ 598 | 🐛 9 | 🌐 Astro | 📅 2025-11-03 - Crisp, minimal, personal blog theme for Astro
 * [Tailcast](https://github.com/matt765/Tailcast) ⭐ 401 | 🐛 6 | 🌐 Astro | 📅 2026-04-12 - Dark-themed website template built with Astro and Tailwind CSS. 8 pages, SEO optimization, and view transitions.
 * [Astro Theme - Creek](https://github.com/robertguss/Astro-Theme-Creek) ⭐ 283 | 🐛 2 | 🌐 Astro | 📅 2026-08-13 - A Blog theme for Astro
@@ -123,8 +123,8 @@ Pre 1.0
 
 ## Astro Packages/Libraries
 
-* [Astro Icon](https://github.com/natemoo-re/astro-icon) ⭐ 1,430 | 🐛 18 | 🌐 MDX | 📅 2026-08-14 - Straight-forward Icon component for Astro
-* [Astro SEO](https://github.com/jonasmerlin/astro-seo) ⭐ 1,383 | 🐛 7 | 🌐 Astro | 📅 2026-01-14 - Better SEO with Astro
+* [Astro Icon](https://github.com/natemoo-re/astro-icon) ⭐ 1,431 | 🐛 18 | 🌐 MDX | 📅 2026-08-14 - Straight-forward Icon component for Astro
+* [Astro SEO](https://github.com/jonasmerlin/astro-seo) ⭐ 1,382 | 🐛 7 | 🌐 Astro | 📅 2026-01-14 - Better SEO with Astro
 * [Astro ImageTools](https://github.com/RafidMuhymin/astro-imagetools) ⭐ 431 | 🐛 83 | 🌐 JavaScript | 📅 2024-09-03 - Image Optimization tools for the Astro JS framework
 * [Astro Breadcrumbs](https://github.com/felix-berlin/astro-breadcrumbs) ⭐ 217 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-16 - Well configurable breadcrumb component for Astro. Create breadcrumbs completely dynamically or specify exactly how they should look.
 * [Astro Collection](https://github.com/JulianCataldo/astro) ⚠️ Archived - An Astro components and configurations collection
@@ -149,8 +149,8 @@ Pre 1.0
 
 ## Astro Integrations
 
-* [@unocss/astro](https://github.com/unocss/unocss/tree/main/packages/astro) ⭐ 18,922 | 🐛 148 | 🌐 TypeScript | 📅 2026-08-15 - The UnoCSS integration for Astro
-* [Frontman](https://github.com/frontman-ai/frontman) ⭐ 659 | 🐛 214 | 🌐 ReScript | 📅 2026-08-15 - An open-source AI coding agent that lives in your browser, letting you click any element and describe changes in plain English to get real code edits with hot reload.
+* [@unocss/astro](https://github.com/unocss/unocss/tree/main/packages/astro) ⭐ 18,923 | 🐛 149 | 🌐 TypeScript | 📅 2026-08-15 - The UnoCSS integration for Astro
+* [Frontman](https://github.com/frontman-ai/frontman) ⭐ 660 | 🐛 215 | 🌐 ReScript | 📅 2026-08-16 - An open-source AI coding agent that lives in your browser, letting you click any element and describe changes in plain English to get real code edits with hot reload.
 * [@storyblok/astro](https://github.com/storyblok/storyblok-astro) ⚠️ Archived - Astro module for the Storyblok, Headless CMS
 * [Google Font Optimizer](https://github.com/sebholstein/astro-google-fonts-optimizer) ⭐ 125 | 🐛 7 | 🌐 TypeScript | 📅 2024-04-09 - An Astro integration to optimize the Google Fonts loading performance
 * [Astro Content](https://github.com/JulianCataldo/astro-content) ⚠️ Archived - A text based, structured content manager, for edition and consumption — AstroJS Integration
@@ -158,14 +158,14 @@ Pre 1.0
 * [Astro Font Picker](https://github.com/randombits-dev/astro-font-picker) ⭐ 25 | 🐛 2 | 🌐 TypeScript | 📅 2025-12-15 - A Dev Toolbar Integration that lets you try out different fonts on your website
 * [Astro Firebase](https://github.com/thepassle/astro-firebase) ⭐ 16 | 🐛 1 | 🌐 JavaScript | 📅 2022-05-05 - Deploy your server-side rendered (SSR) Astro app to Firebase
 * [Astro Snapshot](https://github.com/twocaretcat/astro-snapshot) ⭐ 12 | 🐛 7 | 🌐 TypeScript | 📅 2026-07-19 - An Astro integration for generating screenshots of your pages automatically at build time
-* [@aeorank/astro](https://github.com/vinpatel/aeorank) ⭐ 12 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-15 - AEO (Answer Engine Optimization) integration for Astro — generates llms.txt, schema.json, and more AI-readable files
+* [@aeorank/astro](https://github.com/vinpatel/aeorank) ⭐ 12 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-16 - AEO (Answer Engine Optimization) integration for Astro — generates llms.txt, schema.json, and more AI-readable files
 * [astro-cloudflare-pages-headers](https://github.com/martinsilha/astro-cloudflare-pages-headers) ⭐ 6 | 🐛 1 | 🌐 TypeScript | 📅 2026-02-24 - A lightweight integration for Astro that automatically generates a Cloudflare Pages `_headers` file for deployments based on your server header configuration.
 * [ParaglideJS](https://inlang.com/m/iljlwzfs/library-inlang-paraglideJsAdapterAstro) - A tiny, type-safe i18n integration that only ships messages used on islands to the client.
 
 ## Built with Astro
 
-* [Taiwan.md](https://taiwan.md) - Open-source, AI-friendly knowledge base about Taiwan. 400+ Markdown articles, bilingual, knowledge graph, and public API. ([GitHub](https://github.com/frank890417/taiwan-md) ⭐ 1,148 | 🐛 42 | 🌐 HTML | 📅 2026-08-16 — 600+ ⭐)
-* [Watchboard](https://artemiop.com/watchboard/) - AI-powered intelligence dashboard platform with 48 trackers, CesiumJS 3D globe, Leaflet maps, and nightly automated data updates ([Source](https://github.com/ArtemioPadilla/watchboard) ⭐ 19 | 🐛 20 | 🌐 TypeScript | 📅 2026-08-16)
+* [Taiwan.md](https://taiwan.md) - Open-source, AI-friendly knowledge base about Taiwan. 400+ Markdown articles, bilingual, knowledge graph, and public API. ([GitHub](https://github.com/frank890417/taiwan-md) ⭐ 1,150 | 🐛 73 | 🌐 HTML | 📅 2026-08-17 — 600+ ⭐)
+* [Watchboard](https://artemiop.com/watchboard/) - AI-powered intelligence dashboard platform with 48 trackers, CesiumJS 3D globe, Leaflet maps, and nightly automated data updates ([Source](https://github.com/ArtemioPadilla/watchboard) ⭐ 19 | 🐛 23 | 🌐 TypeScript | 📅 2026-08-17)
 * [Easybank Landing Page](https://markteekman.github.io/easybank-landing-page/)([source](https://github.com/markteekman/easybank-landing-page) ⭐ 9 | 🐛 0 | 🌐 Astro | 📅 2021-10-23)
 * [Tally](https://tally.johng.io) ([Source](https://github.com/twocaretcat/Tally) ⭐ 6 | 🐛 38 | 🌐 TypeScript | 📅 2026-07-21)
 * [aidankinzett.com](https://aidankinzett.com) ([Source](https://github.com/aidankinzett/astro-blog) ⭐ 5 | 🐛 10 | 🌐 Astro | 📅 2026-08-14)
@@ -212,4 +212,4 @@ Pre 1.0
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
