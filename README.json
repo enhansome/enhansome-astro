@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 506862351,
             "language": "Astro",
             "last_commit": "2026-08-08T03:22:21Z",
             "owner": "arthelokyo",
             "repo": "astrowind",
-            "stars": 5888
+            "stars": 5890
           }
         },
         {
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 491806564,
             "language": "Astro",
             "last_commit": "2026-07-25T03:48:19Z",
             "owner": "chrismwilliams",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 492375005,
             "language": "Astro",
             "last_commit": "2024-10-16T16:41:49Z",
             "owner": "treefarmstudio",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 936639285,
             "language": "TypeScript",
             "last_commit": "2026-08-16T03:47:02Z",
             "owner": "starwind-ui",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 401410709,
             "language": "Astro",
             "last_commit": "2025-11-03T13:43:13Z",
             "owner": "one-aalam",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 555474622,
             "language": "Astro",
             "last_commit": "2026-04-12T03:14:43Z",
             "owner": "matt765",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 415940865,
             "language": "Astro",
             "last_commit": "2026-08-13T00:42:55Z",
             "owner": "robertguss",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 942212979,
             "language": "Astro",
             "last_commit": "2025-03-10T17:05:19Z",
             "owner": "ArtemKutsan",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 486611277,
             "language": "Astro",
             "last_commit": "2025-09-17T19:28:46Z",
             "owner": "lloydjatkinson",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 526907442,
             "language": "Astro",
             "last_commit": "2023-07-03T08:18:32Z",
             "owner": "magnuswahlstrand",
@@ -150,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 699273788,
             "language": "TypeScript",
             "last_commit": "2024-10-14T20:28:46Z",
             "owner": "AminoffZ",
@@ -164,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1119057820,
             "language": "Astro",
             "last_commit": "2026-08-07T05:48:59Z",
             "owner": "holger1411",
@@ -178,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 383588257,
             "language": "Astro",
             "last_commit": "2021-12-01T15:09:48Z",
             "owner": "cassidoo",
@@ -192,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 423157694,
             "language": "Astro",
             "last_commit": "2023-09-01T11:01:42Z",
             "owner": "PhilDL",
@@ -206,6 +220,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 380064374,
             "language": "CSS",
             "last_commit": "2021-06-24T22:35:38Z",
             "owner": "cassidoo",
@@ -220,6 +235,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 414451416,
             "language": "Astro",
             "last_commit": "2021-10-08T04:26:11Z",
             "owner": "one-aalam",
@@ -234,6 +250,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 479108197,
             "language": "Astro",
             "last_commit": "2024-12-21T09:12:15Z",
             "owner": "iozcelik",
@@ -248,6 +265,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 492943164,
             "language": "Astro",
             "last_commit": "2023-10-18T02:57:43Z",
             "owner": "delucis",
@@ -262,6 +280,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 388199719,
             "language": "Astro",
             "last_commit": "2022-02-19T14:09:14Z",
             "owner": "rebelchris",
@@ -276,6 +295,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 527254886,
             "language": "Astro",
             "last_commit": "2022-09-04T11:03:53Z",
             "owner": "codiume",
@@ -290,6 +310,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 904001144,
             "language": "Astro",
             "last_commit": "2025-07-02T06:04:51Z",
             "owner": "craftcms",
@@ -304,6 +325,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 159562975,
             "language": "JavaScript",
             "last_commit": "2026-03-01T10:51:32Z",
             "owner": "kireerik",
@@ -318,6 +340,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 377224280,
             "language": "Astro",
             "last_commit": "2021-08-28T04:36:56Z",
             "owner": "one-aalam",
@@ -332,6 +355,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 946551648,
             "language": "Astro",
             "last_commit": "2026-08-07T05:49:02Z",
             "owner": "holger1411",
@@ -346,6 +370,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 403210740,
             "language": "JavaScript",
             "last_commit": "2021-09-11T18:08:17Z",
             "owner": "tylergaw",
@@ -360,6 +385,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 529462764,
             "language": "TypeScript",
             "last_commit": "2022-08-28T05:40:05Z",
             "owner": "reggi",
@@ -374,6 +400,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 544816277,
             "language": "Astro",
             "last_commit": "2022-11-23T10:26:52Z",
             "owner": "itmaginationdemos",
@@ -385,7 +412,7 @@
       "title": "ℹ️ Repositories/Starter Kits/Components"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -394,6 +421,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 434974101,
             "language": "MDX",
             "last_commit": "2026-08-18T14:43:18Z",
             "owner": "natemoo-re",
@@ -408,6 +436,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 400754661,
             "language": "Astro",
             "last_commit": "2026-01-14T09:55:12Z",
             "owner": "jonasmerlin",
@@ -422,6 +451,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 457414852,
             "language": "JavaScript",
             "last_commit": "2024-09-03T16:44:07Z",
             "owner": "RafidMuhymin",
@@ -436,6 +466,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 570618198,
             "language": "TypeScript",
             "last_commit": "2026-08-16T02:13:00Z",
             "owner": "felix-berlin",
@@ -450,6 +481,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 504728290,
             "language": "TypeScript",
             "last_commit": "2024-07-14T18:43:16Z",
             "owner": "JulianCataldo",
@@ -464,6 +496,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 640270808,
             "language": "TypeScript",
             "last_commit": "2025-01-13T10:28:52Z",
             "owner": "mooxl",
@@ -478,6 +511,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 507631679,
             "language": "TypeScript",
             "last_commit": "2026-08-18T21:32:51Z",
             "owner": "delucis",
@@ -492,6 +526,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 517439501,
             "language": "TypeScript",
             "last_commit": "2024-04-09T06:48:49Z",
             "owner": "sebholstein",
@@ -506,6 +541,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 701131669,
             "language": "Astro",
             "last_commit": "2025-12-02T04:22:19Z",
             "owner": "silent1mezzo",
@@ -520,6 +556,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 453184607,
             "language": "TypeScript",
             "last_commit": "2023-06-30T15:39:41Z",
             "owner": "Princesseuh",
@@ -534,6 +571,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 511371772,
             "language": "Astro",
             "last_commit": "2022-07-18T17:29:14Z",
             "owner": "tessamerrill",
@@ -548,6 +586,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 408158191,
             "language": "Astro",
             "last_commit": "2021-09-19T20:16:00Z",
             "owner": "trashhalo",
@@ -562,6 +601,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 763052916,
             "language": "Astro",
             "last_commit": "2025-12-22T13:50:58Z",
             "owner": "kotosha-real",
@@ -576,6 +616,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 480698852,
             "language": "Astro",
             "last_commit": "2022-06-11T18:03:23Z",
             "owner": "iozcelik",
@@ -590,24 +631,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 937351778,
             "language": "TypeScript",
             "last_commit": "2026-03-13T01:38:54Z",
             "owner": "sadmanca",
             "repo": "astro-loader-goodreads",
             "stars": 8
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Astro SEO Meta",
-          "description": "Astro component to add tags that are relevant for search engine optimization (SEO) to your pages.",
-          "children": []
         }
       ],
       "title": "Astro Packages/Libraries"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -616,6 +652,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 412152628,
             "language": "TypeScript",
             "last_commit": "2026-08-19T03:32:56Z",
             "owner": "unocss",
@@ -630,8 +667,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1066256303,
             "language": "ReScript",
-            "last_commit": "2026-08-18T20:24:01Z",
+            "last_commit": "2026-08-19T12:12:33Z",
             "owner": "frontman-ai",
             "repo": "frontman",
             "stars": 663
@@ -644,6 +682,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 531074646,
             "language": "TypeScript",
             "last_commit": "2025-06-19T15:04:42Z",
             "owner": "storyblok",
@@ -658,6 +697,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 517439501,
             "language": "TypeScript",
             "last_commit": "2024-04-09T06:48:49Z",
             "owner": "sebholstein",
@@ -672,6 +712,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 516994157,
             "language": "TypeScript",
             "last_commit": "2023-03-14T23:27:04Z",
             "owner": "JulianCataldo",
@@ -686,6 +727,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 866324905,
             "language": "TypeScript",
             "last_commit": "2026-08-18T20:30:34Z",
             "owner": "yeskunall",
@@ -700,6 +742,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 733182582,
             "language": "TypeScript",
             "last_commit": "2025-12-15T06:06:24Z",
             "owner": "randombits-dev",
@@ -714,6 +757,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 486507255,
             "language": "JavaScript",
             "last_commit": "2022-05-05T13:10:13Z",
             "owner": "thepassle",
@@ -728,6 +772,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1085446833,
             "language": "TypeScript",
             "last_commit": "2026-07-19T21:08:48Z",
             "owner": "caret-collective",
@@ -742,6 +787,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1182092885,
             "language": "TypeScript",
             "last_commit": "2026-08-18T14:45:37Z",
             "owner": "vinpatel",
@@ -756,6 +802,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 931785603,
             "language": "TypeScript",
             "last_commit": "2026-02-24T04:02:34Z",
             "owner": "martinsilha",
@@ -767,7 +814,7 @@
       "title": "Astro Integrations"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -776,8 +823,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1184063789,
             "language": "HTML",
-            "last_commit": "2026-08-19T04:11:27Z",
+            "last_commit": "2026-08-19T08:16:52Z",
             "owner": "frank890417",
             "repo": "taiwan-md",
             "stars": 1152
@@ -790,8 +838,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1172242898,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T01:10:33Z",
+            "last_commit": "2026-08-19T06:33:39Z",
             "owner": "ArtemioPadilla",
             "repo": "watchboard",
             "stars": 19
@@ -804,6 +853,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 402811846,
             "language": "Astro",
             "last_commit": "2021-10-23T08:23:09Z",
             "owner": "markteekman",
@@ -818,6 +868,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 597309013,
             "language": "Astro",
             "last_commit": "2026-08-18T05:58:46Z",
             "owner": "aidankinzett",
@@ -832,6 +883,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33638062,
             "language": "TypeScript",
             "last_commit": "2026-07-21T06:16:34Z",
             "owner": "caret-collective",
@@ -846,6 +898,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 886422047,
             "language": "HTML",
             "last_commit": "2025-05-14T03:40:24Z",
             "owner": "sadmanca",
@@ -860,26 +913,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1127441839,
             "language": "Astro",
             "last_commit": "2026-08-12T17:26:04Z",
             "owner": "klukacin",
             "repo": "goldplated-photos",
             "stars": 0
           }
-        },
-        {
-          "node_type": "item",
-          "title": "ukuvota.world",
-          "description": "(Source)",
-          "children": []
         }
       ],
       "title": "Built with Astro"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T04:35:34.337Z",
+    "last_updated": "2026-08-19T12:17:32.194Z",
     "original_repository": "one-aalam/awesome-astro",
+    "original_repository_id": 376727879,
     "original_repository_sha": "09402f63944f3ffaf7a737b40d4b785a8e801ee9",
     "enhanced_repository": "enhansome/enhansome-astro",
     "enhanced_repository_description": null,
