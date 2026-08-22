@@ -15,7 +15,7 @@
             "last_commit": "2026-08-08T03:22:21Z",
             "owner": "arthelokyo",
             "repo": "astrowind",
-            "stars": 5895
+            "stars": 5898
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-07-25T03:48:19Z",
             "owner": "chrismwilliams",
             "repo": "astro-theme-cactus",
-            "stars": 1713
+            "stars": 1715
           }
         },
         {
@@ -57,10 +57,10 @@
             "archived": false,
             "id": 936639285,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T01:44:07Z",
+            "last_commit": "2026-08-21T10:12:03Z",
             "owner": "starwind-ui",
             "repo": "starwind-ui",
-            "stars": 705
+            "stars": 707
           }
         },
         {
@@ -423,7 +423,7 @@
             "archived": false,
             "id": 434974101,
             "language": "MDX",
-            "last_commit": "2026-08-20T18:54:00Z",
+            "last_commit": "2026-08-21T20:59:13Z",
             "owner": "natemoo-re",
             "repo": "astro-icon",
             "stars": 1432
@@ -441,7 +441,7 @@
             "last_commit": "2026-01-14T09:55:12Z",
             "owner": "jonasmerlin",
             "repo": "astro-seo",
-            "stars": 1384
+            "stars": 1385
           }
         },
         {
@@ -468,7 +468,7 @@
             "archived": false,
             "id": 570618198,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T02:36:20Z",
+            "last_commit": "2026-08-21T11:36:10Z",
             "owner": "felix-berlin",
             "repo": "astro-breadcrumbs",
             "stars": 219
@@ -513,7 +513,7 @@
             "archived": false,
             "id": 507631679,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T22:35:18Z",
+            "last_commit": "2026-08-21T15:06:01Z",
             "owner": "delucis",
             "repo": "astro-auto-import",
             "stars": 157
@@ -654,10 +654,10 @@
             "archived": false,
             "id": 412152628,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T02:50:15Z",
+            "last_commit": "2026-08-21T05:25:12Z",
             "owner": "unocss",
             "repo": "unocss",
-            "stars": 18929
+            "stars": 18931
           }
         },
         {
@@ -669,10 +669,10 @@
             "archived": false,
             "id": 1066256303,
             "language": "ReScript",
-            "last_commit": "2026-08-20T20:28:19Z",
+            "last_commit": "2026-08-22T04:09:10Z",
             "owner": "frontman-ai",
             "repo": "frontman",
-            "stars": 668
+            "stars": 670
           }
         },
         {
@@ -729,7 +729,7 @@
             "archived": false,
             "id": 866324905,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T20:30:34Z",
+            "last_commit": "2026-08-21T22:49:44Z",
             "owner": "yeskunall",
             "repo": "astro-umami",
             "stars": 71
@@ -774,7 +774,7 @@
             "archived": false,
             "id": 1182092885,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T14:46:27Z",
+            "last_commit": "2026-08-21T14:46:23Z",
             "owner": "vinpatel",
             "repo": "aeorank",
             "stars": 14
@@ -825,7 +825,7 @@
             "archived": false,
             "id": 1184063789,
             "language": "HTML",
-            "last_commit": "2026-08-20T02:00:31Z",
+            "last_commit": "2026-08-22T03:44:31Z",
             "owner": "frank890417",
             "repo": "taiwan-md",
             "stars": 1154
@@ -840,7 +840,7 @@
             "archived": false,
             "id": 1172242898,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T04:10:23Z",
+            "last_commit": "2026-08-22T04:26:35Z",
             "owner": "ArtemioPadilla",
             "repo": "watchboard",
             "stars": 19
@@ -915,7 +915,7 @@
             "archived": false,
             "id": 1127441839,
             "language": "Astro",
-            "last_commit": "2026-08-20T20:04:55Z",
+            "last_commit": "2026-08-21T16:15:49Z",
             "owner": "klukacin",
             "repo": "goldplated-photos",
             "stars": 0
@@ -926,7 +926,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T04:36:18.139Z",
+    "last_updated": "2026-08-22T04:30:42.547Z",
     "original_repository": "one-aalam/awesome-astro",
     "original_repository_id": 376727879,
     "original_repository_sha": "09402f63944f3ffaf7a737b40d4b785a8e801ee9",
