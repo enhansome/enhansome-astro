@@ -60,7 +60,7 @@
             "last_commit": "2026-08-21T10:12:03Z",
             "owner": "starwind-ui",
             "repo": "starwind-ui",
-            "stars": 708
+            "stars": 709
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2025-11-03T13:43:13Z",
             "owner": "one-aalam",
             "repo": "astro-ink",
-            "stars": 598
+            "stars": 597
           }
         },
         {
@@ -471,7 +471,7 @@
             "last_commit": "2026-08-21T11:36:10Z",
             "owner": "felix-berlin",
             "repo": "astro-breadcrumbs",
-            "stars": 219
+            "stars": 218
           }
         },
         {
@@ -654,10 +654,10 @@
             "archived": false,
             "id": 412152628,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T03:32:43Z",
+            "last_commit": "2026-08-24T09:18:05Z",
             "owner": "unocss",
             "repo": "unocss",
-            "stars": 18932
+            "stars": 18935
           }
         },
         {
@@ -669,7 +669,7 @@
             "archived": false,
             "id": 1066256303,
             "language": "ReScript",
-            "last_commit": "2026-08-23T19:55:26Z",
+            "last_commit": "2026-08-24T09:59:19Z",
             "owner": "frontman-ai",
             "repo": "frontman",
             "stars": 674
@@ -840,7 +840,7 @@
             "archived": false,
             "id": 1172242898,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T04:22:55Z",
+            "last_commit": "2026-08-24T14:10:59Z",
             "owner": "ArtemioPadilla",
             "repo": "watchboard",
             "stars": 19
@@ -915,7 +915,7 @@
             "archived": false,
             "id": 1127441839,
             "language": "Rust",
-            "last_commit": "2026-08-23T18:13:54Z",
+            "last_commit": "2026-08-24T13:50:14Z",
             "owner": "klukacin",
             "repo": "goldplated-photos",
             "stars": 0
@@ -926,7 +926,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T04:42:21.168Z",
+    "last_updated": "2026-08-24T14:15:55.087Z",
     "original_repository": "one-aalam/awesome-astro",
     "original_repository_id": 376727879,
     "original_repository_sha": "09402f63944f3ffaf7a737b40d4b785a8e801ee9",
