@@ -15,7 +15,7 @@
             "last_commit": "2026-08-08T03:22:21Z",
             "owner": "arthelokyo",
             "repo": "astrowind",
-            "stars": 5908
+            "stars": 5909
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-07-25T03:48:19Z",
             "owner": "chrismwilliams",
             "repo": "astro-theme-cactus",
-            "stars": 1719
+            "stars": 1722
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-08-20T00:43:10Z",
             "owner": "robertguss",
             "repo": "Astro-Theme-Creek",
-            "stars": 284
+            "stars": 285
           }
         },
         {
@@ -423,7 +423,7 @@
             "archived": false,
             "id": 434974101,
             "language": "MDX",
-            "last_commit": "2026-08-24T02:41:18Z",
+            "last_commit": "2026-08-25T04:26:01Z",
             "owner": "natemoo-re",
             "repo": "astro-icon",
             "stars": 1434
@@ -441,7 +441,7 @@
             "last_commit": "2026-01-14T09:55:12Z",
             "owner": "jonasmerlin",
             "repo": "astro-seo",
-            "stars": 1386
+            "stars": 1387
           }
         },
         {
@@ -513,7 +513,7 @@
             "archived": false,
             "id": 507631679,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T15:06:01Z",
+            "last_commit": "2026-08-24T22:22:22Z",
             "owner": "delucis",
             "repo": "astro-auto-import",
             "stars": 158
@@ -654,10 +654,10 @@
             "archived": false,
             "id": 412152628,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T09:18:05Z",
+            "last_commit": "2026-08-25T03:28:07Z",
             "owner": "unocss",
             "repo": "unocss",
-            "stars": 18935
+            "stars": 18937
           }
         },
         {
@@ -669,10 +669,10 @@
             "archived": false,
             "id": 1066256303,
             "language": "ReScript",
-            "last_commit": "2026-08-24T09:59:19Z",
+            "last_commit": "2026-08-24T19:56:17Z",
             "owner": "frontman-ai",
             "repo": "frontman",
-            "stars": 674
+            "stars": 675
           }
         },
         {
@@ -729,7 +729,7 @@
             "archived": false,
             "id": 866324905,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T22:49:44Z",
+            "last_commit": "2026-08-24T21:45:39Z",
             "owner": "yeskunall",
             "repo": "astro-umami",
             "stars": 71
@@ -774,7 +774,7 @@
             "archived": false,
             "id": 1182092885,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T14:41:19Z",
+            "last_commit": "2026-08-24T14:47:59Z",
             "owner": "vinpatel",
             "repo": "aeorank",
             "stars": 14
@@ -828,7 +828,7 @@
             "last_commit": "2026-08-23T01:21:14Z",
             "owner": "frank890417",
             "repo": "taiwan-md",
-            "stars": 1154
+            "stars": 1156
           }
         },
         {
@@ -840,7 +840,7 @@
             "archived": false,
             "id": 1172242898,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T14:10:59Z",
+            "last_commit": "2026-08-25T04:22:34Z",
             "owner": "ArtemioPadilla",
             "repo": "watchboard",
             "stars": 19
@@ -915,7 +915,7 @@
             "archived": false,
             "id": 1127441839,
             "language": "Rust",
-            "last_commit": "2026-08-24T13:50:14Z",
+            "last_commit": "2026-08-24T14:23:44Z",
             "owner": "klukacin",
             "repo": "goldplated-photos",
             "stars": 0
@@ -926,7 +926,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:15:55.087Z",
+    "last_updated": "2026-08-25T04:37:16.474Z",
     "original_repository": "one-aalam/awesome-astro",
     "original_repository_id": 376727879,
     "original_repository_sha": "09402f63944f3ffaf7a737b40d4b785a8e801ee9",
