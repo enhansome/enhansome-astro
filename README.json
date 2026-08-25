@@ -30,7 +30,7 @@
             "last_commit": "2026-07-25T03:48:19Z",
             "owner": "chrismwilliams",
             "repo": "astro-theme-cactus",
-            "stars": 1722
+            "stars": 1723
           }
         },
         {
@@ -423,7 +423,7 @@
             "archived": false,
             "id": 434974101,
             "language": "MDX",
-            "last_commit": "2026-08-25T04:26:01Z",
+            "last_commit": "2026-08-25T05:53:56Z",
             "owner": "natemoo-re",
             "repo": "astro-icon",
             "stars": 1434
@@ -654,7 +654,7 @@
             "archived": false,
             "id": 412152628,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T03:28:07Z",
+            "last_commit": "2026-08-25T05:42:01Z",
             "owner": "unocss",
             "repo": "unocss",
             "stars": 18937
@@ -729,7 +729,7 @@
             "archived": false,
             "id": 866324905,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T21:45:39Z",
+            "last_commit": "2026-08-25T05:33:47Z",
             "owner": "yeskunall",
             "repo": "astro-umami",
             "stars": 71
@@ -825,10 +825,10 @@
             "archived": false,
             "id": 1184063789,
             "language": "HTML",
-            "last_commit": "2026-08-23T01:21:14Z",
+            "last_commit": "2026-08-25T05:21:53Z",
             "owner": "frank890417",
             "repo": "taiwan-md",
-            "stars": 1156
+            "stars": 1155
           }
         },
         {
@@ -840,7 +840,7 @@
             "archived": false,
             "id": 1172242898,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T04:22:34Z",
+            "last_commit": "2026-08-25T05:45:57Z",
             "owner": "ArtemioPadilla",
             "repo": "watchboard",
             "stars": 19
@@ -926,7 +926,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T04:37:16.474Z",
+    "last_updated": "2026-08-25T06:08:03.563Z",
     "original_repository": "one-aalam/awesome-astro",
     "original_repository_id": 376727879,
     "original_repository_sha": "09402f63944f3ffaf7a737b40d4b785a8e801ee9",
