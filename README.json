@@ -15,7 +15,7 @@
             "last_commit": "2026-08-08T03:22:21Z",
             "owner": "arthelokyo",
             "repo": "astrowind",
-            "stars": 5909
+            "stars": 5913
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-07-25T03:48:19Z",
             "owner": "chrismwilliams",
             "repo": "astro-theme-cactus",
-            "stars": 1723
+            "stars": 1721
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2024-10-16T16:41:49Z",
             "owner": "treefarmstudio",
             "repo": "odyssey-theme",
-            "stars": 784
+            "stars": 783
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-21T10:12:03Z",
             "owner": "starwind-ui",
             "repo": "starwind-ui",
-            "stars": 709
+            "stars": 710
           }
         },
         {
@@ -423,10 +423,10 @@
             "archived": false,
             "id": 434974101,
             "language": "MDX",
-            "last_commit": "2026-08-25T05:53:56Z",
+            "last_commit": "2026-08-25T18:12:01Z",
             "owner": "natemoo-re",
             "repo": "astro-icon",
-            "stars": 1434
+            "stars": 1435
           }
         },
         {
@@ -468,7 +468,7 @@
             "archived": false,
             "id": 570618198,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T11:36:10Z",
+            "last_commit": "2026-08-25T23:08:42Z",
             "owner": "felix-berlin",
             "repo": "astro-breadcrumbs",
             "stars": 218
@@ -654,10 +654,10 @@
             "archived": false,
             "id": 412152628,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T05:42:01Z",
+            "last_commit": "2026-08-25T07:30:34Z",
             "owner": "unocss",
             "repo": "unocss",
-            "stars": 18937
+            "stars": 18939
           }
         },
         {
@@ -669,10 +669,10 @@
             "archived": false,
             "id": 1066256303,
             "language": "ReScript",
-            "last_commit": "2026-08-24T19:56:17Z",
+            "last_commit": "2026-08-25T15:53:52Z",
             "owner": "frontman-ai",
             "repo": "frontman",
-            "stars": 675
+            "stars": 677
           }
         },
         {
@@ -707,21 +707,6 @@
         },
         {
           "node_type": "item",
-          "title": "Astro Content",
-          "description": "A text based, structured content manager, for edition and consumption — AstroJS Integration",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "id": 516994157,
-            "language": "TypeScript",
-            "last_commit": "2023-03-14T23:27:04Z",
-            "owner": "JulianCataldo",
-            "repo": "astro-content",
-            "stars": 71
-          }
-        },
-        {
-          "node_type": "item",
           "title": "@yeskunall/umami",
           "description": "Add Umami Analytics to your website",
           "children": [],
@@ -732,6 +717,21 @@
             "last_commit": "2026-08-25T05:33:47Z",
             "owner": "yeskunall",
             "repo": "astro-umami",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Astro Content",
+          "description": "A text based, structured content manager, for edition and consumption — AstroJS Integration",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 516994157,
+            "language": "TypeScript",
+            "last_commit": "2023-03-14T23:27:04Z",
+            "owner": "JulianCataldo",
+            "repo": "astro-content",
             "stars": 71
           }
         },
@@ -774,7 +774,7 @@
             "archived": false,
             "id": 1182092885,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T14:47:59Z",
+            "last_commit": "2026-08-25T14:48:20Z",
             "owner": "vinpatel",
             "repo": "aeorank",
             "stars": 14
@@ -840,7 +840,7 @@
             "archived": false,
             "id": 1172242898,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T05:45:57Z",
+            "last_commit": "2026-08-26T04:23:14Z",
             "owner": "ArtemioPadilla",
             "repo": "watchboard",
             "stars": 19
@@ -926,7 +926,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:08:03.563Z",
+    "last_updated": "2026-08-26T04:38:00.021Z",
     "original_repository": "one-aalam/awesome-astro",
     "original_repository_id": 376727879,
     "original_repository_sha": "09402f63944f3ffaf7a737b40d4b785a8e801ee9",
