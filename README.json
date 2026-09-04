@@ -19,7 +19,7 @@
             "open_issues": 23,
             "owner": "arthelokyo",
             "repo": "astrowind",
-            "stars": 5930,
+            "stars": 5932,
             "topics": [
               "astro",
               "astro-blog",
@@ -61,7 +61,7 @@
             "open_issues": 8,
             "owner": "chrismwilliams",
             "repo": "astro-theme-cactus",
-            "stars": 1724,
+            "stars": 1723,
             "topics": [
               "astro",
               "astro-template",
@@ -96,7 +96,7 @@
             "open_issues": 15,
             "owner": "treefarmstudio",
             "repo": "odyssey-theme",
-            "stars": 784,
+            "stars": 783,
             "topics": [
               "astro",
               "astro-template",
@@ -133,7 +133,7 @@
             "open_issues": 3,
             "owner": "starwind-ui",
             "repo": "starwind-ui",
-            "stars": 720,
+            "stars": 723,
             "topics": [
               "accessibility",
               "agent-skills",
@@ -166,7 +166,7 @@
             "open_issues": 9,
             "owner": "one-aalam",
             "repo": "astro-ink",
-            "stars": 597,
+            "stars": 596,
             "topics": [
               "astrobuild",
               "astrodotbuild",
@@ -227,7 +227,7 @@
             "open_issues": 2,
             "owner": "robertguss",
             "repo": "Astro-Theme-Creek",
-            "stars": 285,
+            "stars": 286,
             "topics": [
               "astro",
               "astrobuild",
@@ -381,7 +381,7 @@
             "open_issues": 0,
             "owner": "holger1411",
             "repo": "astrodeck",
-            "stars": 72,
+            "stars": 73,
             "topics": []
           },
           "first_seen": "2026-08-28T15:54:55.387Z"
@@ -856,11 +856,11 @@
             "id": 570618198,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-02T16:04:59Z",
-            "open_issues": 7,
+            "last_commit": "2026-09-04T04:40:39Z",
+            "open_issues": 11,
             "owner": "felix-berlin",
             "repo": "astro-breadcrumbs",
-            "stars": 219,
+            "stars": 218,
             "topics": [
               "a11y",
               "astrojs",
@@ -1001,7 +1001,7 @@
             "open_issues": 6,
             "owner": "silent1mezzo",
             "repo": "astro-social-share",
-            "stars": 93,
+            "stars": 92,
             "topics": []
           },
           "first_seen": "2026-08-28T15:54:55.387Z"
@@ -1170,8 +1170,8 @@
             "id": 412152628,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-02T12:37:31Z",
-            "open_issues": 136,
+            "last_commit": "2026-09-04T07:57:30Z",
+            "open_issues": 134,
             "owner": "unocss",
             "repo": "unocss",
             "stars": 18947,
@@ -1197,8 +1197,8 @@
             "id": 1066256303,
             "language": "ReScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-03T08:17:34Z",
-            "open_issues": 237,
+            "last_commit": "2026-09-04T08:28:06Z",
+            "open_issues": 229,
             "owner": "frontman-ai",
             "repo": "frontman",
             "stars": 685,
@@ -1428,8 +1428,8 @@
             "id": 1182092885,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-02T14:40:25Z",
-            "open_issues": 7,
+            "last_commit": "2026-09-03T18:59:12Z",
+            "open_issues": 9,
             "owner": "vinpatel",
             "repo": "aeorank",
             "stars": 14,
@@ -1504,11 +1504,11 @@
             "id": 1184063789,
             "language": "HTML",
             "license": null,
-            "last_commit": "2026-09-03T01:14:15Z",
-            "open_issues": 13,
+            "last_commit": "2026-09-04T01:35:24Z",
+            "open_issues": 11,
             "owner": "frank890417",
             "repo": "taiwan-md",
-            "stars": 1165,
+            "stars": 1166,
             "topics": []
           },
           "first_seen": "2026-08-28T15:54:55.387Z"
@@ -1525,7 +1525,7 @@
             "id": 1172242898,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-03T04:51:47Z",
+            "last_commit": "2026-09-04T04:54:43Z",
             "open_issues": 15,
             "owner": "ArtemioPadilla",
             "repo": "watchboard",
@@ -1695,7 +1695,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T08:33:45.681Z",
+    "last_updated": "2026-09-04T08:29:42.156Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated resources on building sites with Astro, a brand new way to build static and server rendered sites, with cross-framework components, styling and reactive store support.",
