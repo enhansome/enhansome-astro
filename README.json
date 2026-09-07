@@ -15,11 +15,11 @@
             "id": 506862351,
             "language": "Astro",
             "license": "MIT",
-            "last_commit": "2026-09-05T23:01:02Z",
+            "last_commit": "2026-09-07T02:06:10Z",
             "open_issues": 1,
             "owner": "arthelokyo",
             "repo": "astrowind",
-            "stars": 5934,
+            "stars": 5936,
             "topics": [
               "astro",
               "astro-blog",
@@ -124,13 +124,13 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "55 framework-portable UI components for Astro and React. Install accessible Tailwind CSS components as source you own, backed by a shared framework-neutral Runtime.",
+            "description": "55 framework-portable UI components for Astro, React, and Vue. Install accessible Tailwind CSS components as source you own, backed by a shared framework-neutral Runtime.",
             "homepage": "https://starwind.dev/",
             "id": 936639285,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-05T18:24:24Z",
-            "open_issues": 3,
+            "last_commit": "2026-09-06T20:07:49Z",
+            "open_issues": 4,
             "owner": "starwind-ui",
             "repo": "starwind-ui",
             "stars": 723,
@@ -145,7 +145,9 @@
               "react",
               "runtime",
               "tailwindcss",
-              "ui-components"
+              "ui-components",
+              "vue",
+              "vuejs"
             ]
           },
           "first_seen": "2026-08-28T15:54:55.387Z"
@@ -198,7 +200,7 @@
             "open_issues": 6,
             "owner": "matt765",
             "repo": "Tailcast",
-            "stars": 402,
+            "stars": 403,
             "topics": [
               "astro",
               "astro-template",
@@ -815,7 +817,7 @@
             "open_issues": 1,
             "owner": "jonasmerlin",
             "repo": "astro-seo",
-            "stars": 1392,
+            "stars": 1394,
             "topics": [
               "astro",
               "seo"
@@ -839,7 +841,7 @@
             "open_issues": 83,
             "owner": "RafidMuhymin",
             "repo": "astro-imagetools",
-            "stars": 431,
+            "stars": 432,
             "topics": []
           },
           "first_seen": "2026-08-28T15:54:55.387Z"
@@ -1170,11 +1172,11 @@
             "id": 412152628,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-06T06:40:35Z",
-            "open_issues": 138,
+            "last_commit": "2026-09-07T08:07:47Z",
+            "open_issues": 135,
             "owner": "unocss",
             "repo": "unocss",
-            "stars": 18946,
+            "stars": 18947,
             "topics": [
               "atomic-css",
               "engine",
@@ -1197,8 +1199,8 @@
             "id": 1066256303,
             "language": "ReScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-05T18:20:21Z",
-            "open_issues": 226,
+            "last_commit": "2026-09-07T07:47:38Z",
+            "open_issues": 229,
             "owner": "frontman-ai",
             "repo": "frontman",
             "stars": 689,
@@ -1392,7 +1394,7 @@
             "id": 1085446833,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-30T23:12:27Z",
+            "last_commit": "2026-09-07T03:53:56Z",
             "open_issues": 7,
             "owner": "caret-collective",
             "repo": "astro-snapshot",
@@ -1428,7 +1430,7 @@
             "id": 1182092885,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-05T14:37:07Z",
+            "last_commit": "2026-09-06T14:37:21Z",
             "open_issues": 7,
             "owner": "vinpatel",
             "repo": "aeorank",
@@ -1504,11 +1506,11 @@
             "id": 1184063789,
             "language": "HTML",
             "license": null,
-            "last_commit": "2026-09-06T05:01:56Z",
+            "last_commit": "2026-09-07T01:13:40Z",
             "open_issues": 4,
             "owner": "frank890417",
             "repo": "taiwan-md",
-            "stars": 1167,
+            "stars": 1169,
             "topics": []
           },
           "first_seen": "2026-08-28T15:54:55.387Z"
@@ -1525,8 +1527,8 @@
             "id": 1172242898,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-06T04:35:19Z",
-            "open_issues": 15,
+            "last_commit": "2026-09-07T08:06:49Z",
+            "open_issues": 30,
             "owner": "ArtemioPadilla",
             "repo": "watchboard",
             "stars": 19,
@@ -1614,7 +1616,7 @@
             "id": 33638062,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-06T05:28:48Z",
+            "last_commit": "2026-09-07T03:35:21Z",
             "open_issues": 32,
             "owner": "caret-collective",
             "repo": "Tally",
@@ -1695,7 +1697,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T08:22:42.041Z",
+    "last_updated": "2026-09-07T08:56:27.326Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated resources on building sites with Astro, a brand new way to build static and server rendered sites, with cross-framework components, styling and reactive store support.",
