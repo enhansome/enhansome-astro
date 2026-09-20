@@ -19,7 +19,7 @@
             "open_issues": 2,
             "owner": "arthelokyo",
             "repo": "astrowind",
-            "stars": 5984,
+            "stars": 5985,
             "topics": [
               "astro",
               "astro-blog",
@@ -133,7 +133,7 @@
             "open_issues": 5,
             "owner": "starwind-ui",
             "repo": "starwind-ui",
-            "stars": 731,
+            "stars": 732,
             "topics": [
               "accessibility",
               "agent-skills",
@@ -790,7 +790,7 @@
             "open_issues": 1,
             "owner": "jonasmerlin",
             "repo": "astro-seo",
-            "stars": 1403,
+            "stars": 1405,
             "topics": [
               "astro",
               "seo"
@@ -831,11 +831,11 @@
             "id": 570618198,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-18T18:04:00Z",
+            "last_commit": "2026-09-20T06:04:52Z",
             "open_issues": 14,
             "owner": "felix-berlin",
             "repo": "astro-breadcrumbs",
-            "stars": 221,
+            "stars": 222,
             "topics": [
               "a11y",
               "astrojs",
@@ -927,7 +927,7 @@
             "id": 507631679,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-09-17T09:41:15Z",
+            "last_commit": "2026-09-19T12:41:34Z",
             "open_issues": 7,
             "owner": "delucis",
             "repo": "astro-auto-import",
@@ -1146,10 +1146,10 @@
             "language": "TypeScript",
             "license": "NOASSERTION",
             "last_commit": "2026-09-17T14:45:43Z",
-            "open_issues": 139,
+            "open_issues": 141,
             "owner": "unocss",
             "repo": "unocss",
-            "stars": 18961,
+            "stars": 18962,
             "topics": [
               "atomic-css",
               "engine",
@@ -1398,12 +1398,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Scan any website for AI visibility. Score 0-100 across 36 criteria. Generate 9 AI-readable files. CLI + GitHub App + 13 framework plugins. Open source.",
+            "description": "Scan any website for AI visibility. Score 0–100 across 12 dimensions (aeorank-cli@0.1.1). Generate 8 AI-readable files. CLI + GitHub Action + App. MIT.",
             "homepage": "https://aeorank.dev",
             "id": 1182092885,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-18T14:39:43Z",
+            "last_commit": "2026-09-19T14:36:48Z",
             "open_issues": 8,
             "owner": "vinpatel",
             "repo": "aeorank",
@@ -1479,11 +1479,11 @@
             "id": 1184063789,
             "language": "HTML",
             "license": null,
-            "last_commit": "2026-09-19T04:02:39Z",
-            "open_issues": 5,
+            "last_commit": "2026-09-20T07:18:35Z",
+            "open_issues": 4,
             "owner": "frank890417",
             "repo": "taiwan-md",
-            "stars": 1182,
+            "stars": 1184,
             "topics": []
           },
           "first_seen": "2026-08-28T15:54:55.387Z"
@@ -1500,7 +1500,7 @@
             "id": 1172242898,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-19T06:11:51Z",
+            "last_commit": "2026-09-20T07:00:56Z",
             "open_issues": 22,
             "owner": "ArtemioPadilla",
             "repo": "watchboard",
@@ -1670,7 +1670,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T08:32:48.605Z",
+    "last_updated": "2026-09-20T09:05:03.628Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated resources on building sites with Astro, a brand new way to build static and server rendered sites, with cross-framework components, styling and reactive store support.",
