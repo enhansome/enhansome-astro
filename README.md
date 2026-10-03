@@ -129,7 +129,7 @@ Pre 1.0
 * [Astro Breadcrumbs](https://github.com/felix-berlin/astro-breadcrumbs) ⭐ 224 | 🐛 13 | 🌐 TypeScript | 📅 2026-10-02 - Well configurable breadcrumb component for Astro. Create breadcrumbs completely dynamically or specify exactly how they should look.
 * [Astro Collection](https://github.com/JulianCataldo/astro) ⚠️ Archived - An Astro components and configurations collection
 * [Astroad](https://github.com/mooxl/astroad) ⭐ 166 | 🐛 19 | 🌐 TypeScript | 📅 2025-01-13 - A pre-configured setup for easy website development with Astro and Payload CMS using Docker.
-* [Astro Auto-import](https://github.com/delucis/astro-auto-import) ⭐ 160 | 🐛 11 | 🌐 TypeScript | 📅 2026-10-02 - Auto-import components in Astro projects
+* [Astro Auto-import](https://github.com/delucis/astro-auto-import) ⭐ 160 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-03 - Auto-import components in Astro projects
 * [Astro Google Fonts Optimizer](https://github.com/sebholstein/astro-google-fonts-optimizer) ⭐ 125 | 🐛 7 | 🌐 TypeScript | 📅 2024-04-09 - An Astro integration to optimize the Google Fonts loading performance
 * [Astro Social Share](https://github.com/silent1mezzo/astro-social-share) ⭐ 92 | 🐛 6 | 🌐 Astro | 📅 2025-12-02 - Social media share buttons for your Astro site
 * [Astro Eleventy Image](https://github.com/Princesseuh/astro-eleventy-img) ⚠️ Archived
@@ -149,8 +149,8 @@ Pre 1.0
 
 ## Astro Integrations
 
-* [@unocss/astro](https://github.com/unocss/unocss/tree/main/packages/astro) ⭐ 18,971 | 🐛 130 | 🌐 TypeScript | 📅 2026-10-02 - The UnoCSS integration for Astro
-* [Frontman](https://github.com/frontman-ai/frontman) ⭐ 708 | 🐛 237 | 🌐 ReScript | 📅 2026-10-02 - An open-source AI coding agent that lives in your browser, letting you click any element and describe changes in plain English to get real code edits with hot reload.
+* [@unocss/astro](https://github.com/unocss/unocss/tree/main/packages/astro) ⭐ 18,971 | 🐛 130 | 🌐 TypeScript | 📅 2026-10-03 - The UnoCSS integration for Astro
+* [Frontman](https://github.com/frontman-ai/frontman) ⭐ 709 | 🐛 237 | 🌐 ReScript | 📅 2026-10-02 - An open-source AI coding agent that lives in your browser, letting you click any element and describe changes in plain English to get real code edits with hot reload.
 * [@storyblok/astro](https://github.com/storyblok/storyblok-astro) ⚠️ Archived - Astro module for the Storyblok, Headless CMS
 * [Google Font Optimizer](https://github.com/sebholstein/astro-google-fonts-optimizer) ⭐ 125 | 🐛 7 | 🌐 TypeScript | 📅 2024-04-09 - An Astro integration to optimize the Google Fonts loading performance
 * [@yeskunall/umami](https://github.com/yeskunall/astro-umami) ⭐ 72 | 🐛 13 | 🌐 TypeScript | 📅 2026-09-28 - Add Umami Analytics to your website
@@ -164,8 +164,8 @@ Pre 1.0
 
 ## Built with Astro
 
-* [Taiwan.md](https://taiwan.md) - Open-source, AI-friendly knowledge base about Taiwan. 400+ Markdown articles, bilingual, knowledge graph, and public API. ([GitHub](https://github.com/frank890417/taiwan-md) ⭐ 1,196 | 🐛 5 | 🌐 HTML | 📅 2026-10-03 — 600+ ⭐)
-* [Watchboard](https://artemiop.com/watchboard/) - AI-powered intelligence dashboard platform with 48 trackers, CesiumJS 3D globe, Leaflet maps, and nightly automated data updates ([Source](https://github.com/ArtemioPadilla/watchboard) ⭐ 19 | 🐛 29 | 🌐 TypeScript | 📅 2026-10-03)
+* [Taiwan.md](https://taiwan.md) - Open-source, AI-friendly knowledge base about Taiwan. 400+ Markdown articles, bilingual, knowledge graph, and public API. ([GitHub](https://github.com/frank890417/taiwan-md) ⭐ 1,197 | 🐛 5 | 🌐 HTML | 📅 2026-10-03 — 600+ ⭐)
+* [Watchboard](https://artemiop.com/watchboard/) - AI-powered intelligence dashboard platform with 48 trackers, CesiumJS 3D globe, Leaflet maps, and nightly automated data updates ([Source](https://github.com/ArtemioPadilla/watchboard) ⭐ 19 | 🐛 30 | 🌐 TypeScript | 📅 2026-10-03)
 * [Easybank Landing Page](https://markteekman.github.io/easybank-landing-page/)([source](https://github.com/markteekman/easybank-landing-page) ⭐ 9 | 🐛 0 | 🌐 Astro | 📅 2021-10-23)
 * [aidankinzett.com](https://aidankinzett.com) ([Source](https://github.com/aidankinzett/astro-blog) ⭐ 5 | 🐛 10 | 🌐 Astro | 📅 2026-10-01)
 * [Tally](https://tally.johng.io) ([Source](https://github.com/twocaretcat/Tally) ⭐ 5 | 🐛 33 | 🌐 TypeScript | 📅 2026-09-26)
