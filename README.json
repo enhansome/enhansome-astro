@@ -133,7 +133,7 @@
             "open_issues": 4,
             "owner": "starwind-ui",
             "repo": "starwind-ui",
-            "stars": 739,
+            "stars": 738,
             "topics": [
               "accessibility",
               "agent-skills",
@@ -287,7 +287,7 @@
         {
           "node_type": "item",
           "title": "Astro + Snipcart",
-          "description": null,
+          "description": "lloydjatkinson/astro-snipcart",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -317,7 +317,7 @@
         {
           "node_type": "item",
           "title": "Astro + Supabase + Vercel",
-          "description": null,
+          "description": "magnuswahlstrand/astro-supabase-vercel",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -391,7 +391,7 @@
         {
           "node_type": "item",
           "title": "Astro-netlify-starter",
-          "description": null,
+          "description": "cassidoo/astro-netlify-starter",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -469,7 +469,7 @@
         {
           "node_type": "item",
           "title": "Astro-react-vue-demo",
-          "description": null,
+          "description": "cassidoo/astro-react-vue-demo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -532,7 +532,7 @@
             "open_issues": 9,
             "owner": "delucis",
             "repo": "astro-netlify-cms-starter",
-            "stars": 40,
+            "stars": 39,
             "topics": [
               "astro",
               "blog",
@@ -545,7 +545,7 @@
         {
           "node_type": "item",
           "title": "Astro Static Tweet",
-          "description": null,
+          "description": "rebelchris/astro-static-tweet",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -650,7 +650,7 @@
         {
           "node_type": "item",
           "title": "Astro Starter Kit",
-          "description": null,
+          "description": "one-aalam/astro-starter-kit",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -671,7 +671,7 @@
         {
           "node_type": "item",
           "title": "Astro Translation Example",
-          "description": null,
+          "description": "tylergaw/astro-example-i18next",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -695,7 +695,7 @@
         {
           "node_type": "item",
           "title": "Astro Deno Starter",
-          "description": null,
+          "description": "reggi/astro-deno-starter",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -831,8 +831,8 @@
             "id": 570618198,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-02T04:34:46Z",
-            "open_issues": 14,
+            "last_commit": "2026-10-02T10:57:57Z",
+            "open_issues": 13,
             "owner": "felix-berlin",
             "repo": "astro-breadcrumbs",
             "stars": 224,
@@ -927,7 +927,7 @@
             "id": 507631679,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-10-02T09:50:17Z",
+            "last_commit": "2026-10-02T18:52:45Z",
             "open_issues": 11,
             "owner": "delucis",
             "repo": "astro-auto-import",
@@ -984,7 +984,7 @@
         {
           "node_type": "item",
           "title": "Astro Eleventy Image",
-          "description": null,
+          "description": "Princesseuh/astro-eleventy-img",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1172,11 +1172,11 @@
             "id": 1066256303,
             "language": "ReScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-01T18:57:21Z",
+            "last_commit": "2026-10-02T13:27:23Z",
             "open_issues": 237,
             "owner": "frontman-ai",
             "repo": "frontman",
-            "stars": 709,
+            "stars": 708,
             "topics": [
               "agent",
               "ai",
@@ -1367,7 +1367,7 @@
             "id": 1182092885,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-01T14:44:36Z",
+            "last_commit": "2026-10-02T14:44:50Z",
             "open_issues": 10,
             "owner": "vinpatel",
             "repo": "aeorank",
@@ -1479,11 +1479,11 @@
             "id": 1184063789,
             "language": "HTML",
             "license": null,
-            "last_commit": "2026-10-02T07:04:14Z",
+            "last_commit": "2026-10-03T01:05:49Z",
             "open_issues": 5,
             "owner": "frank890417",
             "repo": "taiwan-md",
-            "stars": 1195,
+            "stars": 1196,
             "topics": []
           },
           "first_seen": "2026-08-28T15:54:55.387Z"
@@ -1500,7 +1500,7 @@
             "id": 1172242898,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T05:15:24Z",
+            "last_commit": "2026-10-03T03:54:36Z",
             "open_issues": 29,
             "owner": "ArtemioPadilla",
             "repo": "watchboard",
@@ -1523,7 +1523,7 @@
         {
           "node_type": "item",
           "title": "Easybank Landing Page",
-          "description": "(source)",
+          "description": "markteekman/easybank-landing-page",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1555,7 +1555,7 @@
         {
           "node_type": "item",
           "title": "aidankinzett.com",
-          "description": "(Source)",
+          "description": "aidankinzett/astro-blog",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1580,7 +1580,7 @@
         {
           "node_type": "item",
           "title": "Tally",
-          "description": "(Source)",
+          "description": "caret-collective/Tally",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1613,7 +1613,7 @@
         {
           "node_type": "item",
           "title": "sadman.ca",
-          "description": "(Source)",
+          "description": "sadmanca/blogv2",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1670,7 +1670,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T10:19:00.728Z",
+    "last_updated": "2026-10-03T04:34:14.505Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated resources on building sites with Astro, a brand new way to build static and server rendered sites, with cross-framework components, styling and reactive store support.",
@@ -1679,10 +1679,10 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-07-29T19:57:25Z",
-      "open_issues": 59,
+      "open_issues": 60,
       "owner": "one-aalam",
       "repo": "awesome-astro",
-      "stars": 949,
+      "stars": 950,
       "topics": [
         "astrodotbuild",
         "awesome",
