@@ -83,7 +83,7 @@ Pre 1.0
 
 ## ℹ️ Repositories/Starter Kits/Components
 
-* [Astro Theme - AstroWind](https://github.com/onwidget/astrowind) ⭐ 6,021 | 🐛 2 | 🌐 Astro | 📅 2026-09-12 - Started template to make a website using Astro and Tailwind CSS.
+* [Astro Theme - AstroWind](https://github.com/onwidget/astrowind) ⭐ 6,022 | 🐛 2 | 🌐 Astro | 📅 2026-09-12 - Started template to make a website using Astro and Tailwind CSS.
 * [Astro Theme - Cactus](https://github.com/chrismwilliams/astro-theme-cactus) ⭐ 1,732 | 🐛 7 | 🌐 Astro | 📅 2026-09-22 - Simple, opinionated starter built with the Astro framework for blog or website
 * [Astro Theme - Odessey](https://github.com/littlesticksdev/odyssey-theme) ⭐ 786 | 🐛 15 | 🌐 Astro | 📅 2024-10-16 - A marketing website theme built with Astro and carefully crafted for startups and businesses
 * [Starwind UI](https://github.com/starwind-ui/starwind-ui) ⭐ 741 | 🐛 16 | 🌐 TypeScript | 📅 2026-10-06 - A set of powerful, accessible components for your Astro projects. Styled with Tailwind CSS v4.
@@ -150,7 +150,7 @@ Pre 1.0
 ## Astro Integrations
 
 * [@unocss/astro](https://github.com/unocss/unocss/tree/main/packages/astro) ⭐ 18,973 | 🐛 127 | 🌐 TypeScript | 📅 2026-10-04 - The UnoCSS integration for Astro
-* [Frontman](https://github.com/frontman-ai/frontman) ⭐ 711 | 🐛 241 | 🌐 ReScript | 📅 2026-10-06 - An open-source AI coding agent that lives in your browser, letting you click any element and describe changes in plain English to get real code edits with hot reload.
+* [Frontman](https://github.com/frontman-ai/frontman) ⭐ 711 | 🐛 238 | 🌐 ReScript | 📅 2026-10-06 - An open-source AI coding agent that lives in your browser, letting you click any element and describe changes in plain English to get real code edits with hot reload.
 * [@storyblok/astro](https://github.com/storyblok/storyblok-astro) ⚠️ Archived - Astro module for the Storyblok, Headless CMS
 * [Google Font Optimizer](https://github.com/sebholstein/astro-google-fonts-optimizer) ⭐ 125 | 🐛 7 | 🌐 TypeScript | 📅 2024-04-09 - An Astro integration to optimize the Google Fonts loading performance
 * [@yeskunall/umami](https://github.com/yeskunall/astro-umami) ⭐ 72 | 🐛 12 | 🌐 TypeScript | 📅 2026-10-05 - Add Umami Analytics to your website

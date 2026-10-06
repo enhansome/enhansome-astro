@@ -19,7 +19,7 @@
             "open_issues": 2,
             "owner": "arthelokyo",
             "repo": "astrowind",
-            "stars": 6021,
+            "stars": 6022,
             "topics": [
               "astro",
               "astro-blog",
@@ -1172,8 +1172,8 @@
             "id": 1066256303,
             "language": "ReScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-06T10:00:24Z",
-            "open_issues": 241,
+            "last_commit": "2026-10-06T11:01:04Z",
+            "open_issues": 238,
             "owner": "frontman-ai",
             "repo": "frontman",
             "stars": 711,
@@ -1670,7 +1670,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:23:35.310Z",
+    "last_updated": "2026-10-06T11:09:02.105Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated resources on building sites with Astro, a brand new way to build static and server rendered sites, with cross-framework components, styling and reactive store support.",
