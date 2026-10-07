@@ -19,7 +19,7 @@
             "open_issues": 2,
             "owner": "arthelokyo",
             "repo": "astrowind",
-            "stars": 6022,
+            "stars": 6024,
             "topics": [
               "astro",
               "astro-blog",
@@ -61,7 +61,7 @@
             "open_issues": 7,
             "owner": "chrismwilliams",
             "repo": "astro-theme-cactus",
-            "stars": 1732,
+            "stars": 1733,
             "topics": [
               "astro",
               "astro-template",
@@ -124,16 +124,16 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "55 framework-portable UI components for Astro, React, and Vue. Install accessible Tailwind CSS components as source you own, backed by a shared framework-neutral Runtime.",
+            "description": "55 framework-portable UI components for Astro, React Vue, and Svelte. Install accessible Tailwind CSS components as source you own, backed by a shared framework-neutral Runtime.",
             "homepage": "https://starwind.dev/",
             "id": 936639285,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-06T02:14:30Z",
-            "open_issues": 16,
+            "last_commit": "2026-10-06T19:50:50Z",
+            "open_issues": 15,
             "owner": "starwind-ui",
             "repo": "starwind-ui",
-            "stars": 741,
+            "stars": 743,
             "topics": [
               "accessibility",
               "agent-skills",
@@ -518,32 +518,6 @@
         },
         {
           "node_type": "item",
-          "title": "Astro Blog Starter with Netlify CMS",
-          "description": "Template based on the Astro blog starter kit + Astro Netlify CMS integration.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Blog Starter Template for Astro & Netlify CMS",
-            "homepage": "https://astro-ntlfy-cms.netlify.app/",
-            "id": 492943164,
-            "language": "Astro",
-            "license": null,
-            "last_commit": "2023-10-18T02:57:43Z",
-            "open_issues": 9,
-            "owner": "delucis",
-            "repo": "astro-netlify-cms-starter",
-            "stars": 39,
-            "topics": [
-              "astro",
-              "blog",
-              "netlify-cms",
-              "template"
-            ]
-          },
-          "first_seen": "2026-08-28T15:54:55.387Z"
-        },
-        {
-          "node_type": "item",
           "title": "Astro Static Tweet",
           "description": "rebelchris/astro-static-tweet",
           "children": [],
@@ -560,6 +534,32 @@
             "repo": "astro-static-tweet",
             "stars": 38,
             "topics": []
+          },
+          "first_seen": "2026-08-28T15:54:55.387Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Astro Blog Starter with Netlify CMS",
+          "description": "Template based on the Astro blog starter kit + Astro Netlify CMS integration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Blog Starter Template for Astro & Netlify CMS",
+            "homepage": "https://astro-ntlfy-cms.netlify.app/",
+            "id": 492943164,
+            "language": "Astro",
+            "license": null,
+            "last_commit": "2023-10-18T02:57:43Z",
+            "open_issues": 9,
+            "owner": "delucis",
+            "repo": "astro-netlify-cms-starter",
+            "stars": 38,
+            "topics": [
+              "astro",
+              "blog",
+              "netlify-cms",
+              "template"
+            ]
           },
           "first_seen": "2026-08-28T15:54:55.387Z"
         },
@@ -927,7 +927,7 @@
             "id": 507631679,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-10-04T06:06:17Z",
+            "last_commit": "2026-10-07T00:48:25Z",
             "open_issues": 7,
             "owner": "delucis",
             "repo": "astro-auto-import",
@@ -1146,10 +1146,10 @@
             "language": "TypeScript",
             "license": "NOASSERTION",
             "last_commit": "2026-10-04T11:20:27Z",
-            "open_issues": 127,
+            "open_issues": 130,
             "owner": "unocss",
             "repo": "unocss",
-            "stars": 18973,
+            "stars": 18974,
             "topics": [
               "atomic-css",
               "engine",
@@ -1172,7 +1172,7 @@
             "id": 1066256303,
             "language": "ReScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-06T11:01:04Z",
+            "last_commit": "2026-10-07T10:17:01Z",
             "open_issues": 238,
             "owner": "frontman-ai",
             "repo": "frontman",
@@ -1367,7 +1367,7 @@
             "id": 1182092885,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-05T14:46:31Z",
+            "last_commit": "2026-10-06T14:43:07Z",
             "open_issues": 8,
             "owner": "vinpatel",
             "repo": "aeorank",
@@ -1480,7 +1480,7 @@
             "language": "HTML",
             "license": null,
             "last_commit": "2026-10-03T22:03:30Z",
-            "open_issues": 8,
+            "open_issues": 19,
             "owner": "frank890417",
             "repo": "taiwan-md",
             "stars": 1199,
@@ -1500,7 +1500,7 @@
             "id": 1172242898,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-06T09:11:31Z",
+            "last_commit": "2026-10-07T05:56:01Z",
             "open_issues": 34,
             "owner": "ArtemioPadilla",
             "repo": "watchboard",
@@ -1670,7 +1670,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T11:09:02.105Z",
+    "last_updated": "2026-10-07T10:51:20.415Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated resources on building sites with Astro, a brand new way to build static and server rendered sites, with cross-framework components, styling and reactive store support.",
@@ -1679,7 +1679,7 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-07-29T19:57:25Z",
-      "open_issues": 61,
+      "open_issues": 62,
       "owner": "one-aalam",
       "repo": "awesome-astro",
       "stars": 950,
