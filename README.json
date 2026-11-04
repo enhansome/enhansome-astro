@@ -19,7 +19,7 @@
             "open_issues": 4,
             "owner": "arthelokyo",
             "repo": "astrowind",
-            "stars": 6114,
+            "stars": 6117,
             "topics": [
               "astro",
               "astro-blog",
@@ -61,7 +61,7 @@
             "open_issues": 7,
             "owner": "chrismwilliams",
             "repo": "astro-theme-cactus",
-            "stars": 1745,
+            "stars": 1747,
             "topics": [
               "astro",
               "astro-template",
@@ -133,7 +133,7 @@
             "open_issues": 3,
             "owner": "starwind-ui",
             "repo": "starwind-ui",
-            "stars": 759,
+            "stars": 760,
             "topics": [
               "accessibility",
               "agent-skills",
@@ -765,7 +765,7 @@
             "open_issues": 18,
             "owner": "natemoo-re",
             "repo": "astro-icon",
-            "stars": 1449,
+            "stars": 1448,
             "topics": [
               "astro",
               "icon",
@@ -835,7 +835,7 @@
             "open_issues": 14,
             "owner": "felix-berlin",
             "repo": "astro-breadcrumbs",
-            "stars": 226,
+            "stars": 227,
             "topics": [
               "a11y",
               "astrojs",
@@ -1145,11 +1145,11 @@
             "id": 412152628,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-03T09:43:42Z",
-            "open_issues": 119,
+            "last_commit": "2026-11-04T10:14:30Z",
+            "open_issues": 116,
             "owner": "unocss",
             "repo": "unocss",
-            "stars": 18991,
+            "stars": 18989,
             "topics": [
               "atomic-css",
               "engine",
@@ -1172,8 +1172,8 @@
             "id": 1066256303,
             "language": "ReScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-03T11:05:26Z",
-            "open_issues": 206,
+            "last_commit": "2026-11-04T11:50:15Z",
+            "open_issues": 207,
             "owner": "frontman-ai",
             "repo": "frontman",
             "stars": 722,
@@ -1246,32 +1246,6 @@
         },
         {
           "node_type": "item",
-          "title": "@yeskunall/umami",
-          "description": "Add Umami Analytics to your website",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "📈 Astro integration to add Umami Analytics to your website",
-            "homepage": "https://www.npmjs.com/package/@yeskunall/astro-umami",
-            "id": 866324905,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-10-26T21:44:17Z",
-            "open_issues": 13,
-            "owner": "yeskunall",
-            "repo": "astro-umami",
-            "stars": 72,
-            "topics": [
-              "analytics",
-              "astro-integration",
-              "umami",
-              "umami-analytics"
-            ]
-          },
-          "first_seen": "2026-08-28T15:54:55.387Z"
-        },
-        {
-          "node_type": "item",
           "title": "Astro Content",
           "description": "A text based, structured content manager, for edition and consumption — AstroJS Integration",
           "children": [],
@@ -1302,6 +1276,32 @@
               "validation",
               "vscode",
               "yaml"
+            ]
+          },
+          "first_seen": "2026-08-28T15:54:55.387Z"
+        },
+        {
+          "node_type": "item",
+          "title": "@yeskunall/umami",
+          "description": "Add Umami Analytics to your website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "📈 Astro integration to add Umami Analytics to your website",
+            "homepage": "https://www.npmjs.com/package/@yeskunall/astro-umami",
+            "id": 866324905,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-11-04T05:08:43Z",
+            "open_issues": 13,
+            "owner": "yeskunall",
+            "repo": "astro-umami",
+            "stars": 69,
+            "topics": [
+              "analytics",
+              "astro-integration",
+              "umami",
+              "umami-analytics"
             ]
           },
           "first_seen": "2026-08-28T15:54:55.387Z"
@@ -1346,7 +1346,7 @@
             "id": 1182092885,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-02T22:51:21Z",
+            "last_commit": "2026-11-03T20:35:29Z",
             "open_issues": 9,
             "owner": "vinpatel",
             "repo": "aeorank",
@@ -1479,11 +1479,11 @@
             "id": 1184063789,
             "language": "HTML",
             "license": null,
-            "last_commit": "2026-11-03T10:20:03Z",
-            "open_issues": 17,
+            "last_commit": "2026-11-04T06:37:46Z",
+            "open_issues": 13,
             "owner": "frank890417",
             "repo": "taiwan-md",
-            "stars": 1235,
+            "stars": 1236,
             "topics": []
           },
           "first_seen": "2026-08-28T15:54:55.387Z"
@@ -1500,8 +1500,8 @@
             "id": 1172242898,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-03T10:34:45Z",
-            "open_issues": 24,
+            "last_commit": "2026-11-04T10:51:37Z",
+            "open_issues": 25,
             "owner": "ArtemioPadilla",
             "repo": "watchboard",
             "stars": 21,
@@ -1670,7 +1670,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T11:38:08.535Z",
+    "last_updated": "2026-11-04T11:51:49.430Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated resources on building sites with Astro, a brand new way to build static and server rendered sites, with cross-framework components, styling and reactive store support.",
@@ -1679,7 +1679,7 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-07-29T19:57:25Z",
-      "open_issues": 86,
+      "open_issues": 87,
       "owner": "one-aalam",
       "repo": "awesome-astro",
       "stars": 953,
