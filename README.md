@@ -83,7 +83,7 @@ Pre 1.0
 
 ## ℹ️ Repositories/Starter Kits/Components
 
-* [Astro Theme - AstroWind](https://github.com/onwidget/astrowind) ⭐ 6,152 | 🐛 8 | 🌐 Astro | 📅 2026-09-12 - Started template to make a website using Astro and Tailwind CSS.
+* [Astro Theme - AstroWind](https://github.com/onwidget/astrowind) ⭐ 6,154 | 🐛 8 | 🌐 Astro | 📅 2026-09-12 - Started template to make a website using Astro and Tailwind CSS.
 * [Astro Theme - Cactus](https://github.com/chrismwilliams/astro-theme-cactus) ⭐ 1,754 | 🐛 7 | 🌐 Astro | 📅 2026-11-01 - Simple, opinionated starter built with the Astro framework for blog or website
 * [Astro Theme - Odessey](https://github.com/littlesticksdev/odyssey-theme) ⭐ 789 | 🐛 14 | 🌐 Astro | 📅 2024-10-16 - A marketing website theme built with Astro and carefully crafted for startups and businesses
 * [Starwind UI](https://github.com/starwind-ui/starwind-ui) ⭐ 771 | 🐛 13 | 🌐 TypeScript | 📅 2026-11-24 - A set of powerful, accessible components for your Astro projects. Styled with Tailwind CSS v4.
@@ -149,8 +149,8 @@ Pre 1.0
 
 ## Astro Integrations
 
-* [@unocss/astro](https://github.com/unocss/unocss/tree/main/packages/astro) ⭐ 18,992 | 🐛 120 | 🌐 TypeScript | 📅 2026-11-24 - The UnoCSS integration for Astro
-* [Frontman](https://github.com/frontman-ai/frontman) ⭐ 736 | 🐛 216 | 🌐 ReScript | 📅 2026-11-24 - An open-source AI coding agent that lives in your browser, letting you click any element and describe changes in plain English to get real code edits with hot reload.
+* [@unocss/astro](https://github.com/unocss/unocss/tree/main/packages/astro) ⭐ 18,993 | 🐛 94 | 🌐 TypeScript | 📅 2026-11-25 - The UnoCSS integration for Astro
+* [Frontman](https://github.com/frontman-ai/frontman) ⭐ 740 | 🐛 215 | 🌐 ReScript | 📅 2026-11-25 - An open-source AI coding agent that lives in your browser, letting you click any element and describe changes in plain English to get real code edits with hot reload.
 * [@storyblok/astro](https://github.com/storyblok/storyblok-astro) ⚠️ Archived - Astro module for the Storyblok, Headless CMS
 * [Google Font Optimizer](https://github.com/sebholstein/astro-google-fonts-optimizer) ⭐ 125 | 🐛 7 | 🌐 TypeScript | 📅 2024-04-09 - An Astro integration to optimize the Google Fonts loading performance
 * [Astro Content](https://github.com/JulianCataldo/astro-content) ⚠️ Archived - A text based, structured content manager, for edition and consumption — AstroJS Integration
@@ -164,8 +164,8 @@ Pre 1.0
 
 ## Built with Astro
 
-* [Taiwan.md](https://taiwan.md) - Open-source, AI-friendly knowledge base about Taiwan. 400+ Markdown articles, bilingual, knowledge graph, and public API. ([GitHub](https://github.com/frank890417/taiwan-md) ⭐ 1,252 | 🐛 14 | 🌐 HTML | 📅 2026-11-24 — 600+ ⭐)
-* [Watchboard](https://artemiop.com/watchboard/) - AI-powered intelligence dashboard platform with 48 trackers, CesiumJS 3D globe, Leaflet maps, and nightly automated data updates ([Source](https://github.com/ArtemioPadilla/watchboard) ⭐ 23 | 🐛 28 | 🌐 TypeScript | 📅 2026-11-24)
+* [Taiwan.md](https://taiwan.md) - Open-source, AI-friendly knowledge base about Taiwan. 400+ Markdown articles, bilingual, knowledge graph, and public API. ([GitHub](https://github.com/frank890417/taiwan-md) ⭐ 1,253 | 🐛 13 | 🌐 HTML | 📅 2026-11-25 — 600+ ⭐)
+* [Watchboard](https://artemiop.com/watchboard/) - AI-powered intelligence dashboard platform with 48 trackers, CesiumJS 3D globe, Leaflet maps, and nightly automated data updates ([Source](https://github.com/ArtemioPadilla/watchboard) ⭐ 22 | 🐛 29 | 🌐 TypeScript | 📅 2026-11-25)
 * [Easybank Landing Page](https://markteekman.github.io/easybank-landing-page/)([source](https://github.com/markteekman/easybank-landing-page) ⭐ 9 | 🐛 0 | 🌐 Astro | 📅 2021-10-23)
 * [aidankinzett.com](https://aidankinzett.com) ([Source](https://github.com/aidankinzett/astro-blog) ⭐ 5 | 🐛 10 | 🌐 Astro | 📅 2026-11-20)
 * [Tally](https://tally.johng.io) ([Source](https://github.com/twocaretcat/Tally) ⭐ 5 | 🐛 33 | 🌐 TypeScript | 📅 2026-11-13)
@@ -212,4 +212,4 @@ Pre 1.0
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
